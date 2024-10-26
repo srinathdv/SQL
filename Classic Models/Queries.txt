@@ -1,0 +1,57 @@
+	Single Entity Queries
+1.Prepare list of offices sorted by country, state, city.
+2.How many employees are there in company.
+3.Total payments received.
+4.List productlines that contains cars.
+5.Report total payments on OCT 28 2004.
+6.Report payments greater than 100,000.
+7.List the products in each productline.
+8.How many products in each productline.
+9.Minimum payment received.
+10.All payments greater than twice of average payment.
+11.Distinct products of classicmodels.
+12.Name and city of customers who don't have sales representative.
+13.What are the names of executives with VP or Manager in their title.
+14.Orders which have value greater than 5000.
+15.The average percentage markup of the MSRP on buyprice.
+
+
+
+	One to Many Relationship Queries
+1.Report account representative of each customer.
+2.Report total payments for Atelier graphique.
+3.Report total payments by Date.
+4.Reports products that have not been sold.
+5.List amount paid by each customer.
+6.How many orders have been placed by Herkku Gifts.
+7.Who are employees in Boston.
+8.Report those payments greater than 100,000.
+9.List values of 'On Hold' orders.
+10.Report number of orders 'On Hold' for each customer.
+
+
+
+	Many to Many Entity Queries
+1.List products sold by order date.
+2.List the order dates in descending order for orders for the 1940 Ford Pickup Truck.
+3.List the names of customers and their corresponding order number where a particular order from that customer has a value greater than $25,000.
+4.List the names of products sold at less than 80% of the MSRP.
+5.Reports those products that have been sold with a markup of 100% or more (i.e the priceEach is at least twice the buyPrice).
+6.List the products ordered on a Monday.
+7.What is the quantity on hand for products listed on 'On Hold' orders?
+8.List all the products purchased by Herkku Gifts.
+
+
+
+	Regular Expressions Queries
+1.Find the products containing name 'Ford'.
+2.List products ending in 'ship'.
+3.Report number of customers in Denmark, Norway, Sweden.
+4.What are the products with a product code in the range S00_1000 to S00_1499.
+5.Which customers have a digit in their name.
+6.List name of employees called Dianne or Diane.
+7.List products containing ship or boat in their product name.
+8.List products with product code beginning with S700.
+9.List names of employees called Larry or Barry.
+10.List names of employees with non-alphabetic characters in their names.
+11.List vendors whose names ends in Diecast.
