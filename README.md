@@ -1,1 +1,1 @@
-Few sample databases and queries with their solutions to practice SQL for beginners.
+This repository contains Datasets, Queries, Assignments, Projects which I have completed during my journey in learning SQL.
